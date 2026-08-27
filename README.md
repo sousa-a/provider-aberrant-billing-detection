@@ -151,11 +151,11 @@ CMS DE-SynPUF (2008–2010), all 20 samples.
 
 This is **P3** in a three-project FWA portfolio:
 
-| Project | Focus | Status |
-|---|---|---|
-| P1 | Upcoding & unbundling detection | Complete |
-| P2 | Phantom billing detection | Complete |
-| **P3** | **Provider aberrant billing pattern detection** | **This repository** |
+| Project | Focus |
+|---|---|
+| P1 | Upcoding & unbundling detection |
+| P2 | Phantom billing detection |
+| **P3** | **Provider aberrant billing pattern detection** |
 
 ---
 
