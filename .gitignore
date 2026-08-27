@@ -1,0 +1,50 @@
+# =============================================================================
+# P3 — Provider Aberrant Billing Pattern Detection
+# =============================================================================
+
+# Data files 
+data/
+*.csv
+*.parquet
+*.sas7bdat
+*.xpt
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# SAS artifacts
+*.log
+*.lst
+*.sas7bcat
+saswork/
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Evidence (local only)
+evidence/
+
+# Exceptions — keep these
+!outputs/
+!outputs/figures/
+!outputs/figures/*.png
+!outputs/case_files/
+!outputs/case_files/*.md
+!data/
+!data/snowflake_exports/
+!data/snowflake_exports/.gitkeep
