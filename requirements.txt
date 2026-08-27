@@ -1,0 +1,14 @@
+# P3 — Provider Aberrant Billing Pattern Detection
+# Pin versions to those used during development.
+# Update with actual versions from: pip freeze | grep -iE "duckdb|pandas|numpy|matplotlib|seaborn|scikit|shap|scipy|nbformat"
+
+duckdb>=1.0.0
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.4.0
+shap>=0.45.0
+scipy>=1.12.0
+nbformat>=5.10.0
+jupyter>=1.0.0
