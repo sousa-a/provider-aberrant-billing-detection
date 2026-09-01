@@ -3,7 +3,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Deep_Dive-black?style=flat&logo=medium)]([https://medium.com/@alessandro.oof/detecting-medicare-phantom-billing-at-scale-building-a-post-mortem-claims-impossible-service-day-c8d57a6b9c3c](https://medium.com/@alessandro.oof/detecting-aberrant-medicare-billing-patterns-a-multi-method-framework-using-synthetic-cms-data-5660d71e2839))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aosousa)
 [![Companion Project](https://img.shields.io/badge/Companion-Upcoding_%26_Unbundling-green?style=flat)](https://github.com/sousa-a/medicare-upcoding-unbundling-engine)
-[![Companion Project](https://img.shields.io/badge/Companion-Upcoding_%26_Unbundling-green?style=flat)](https://github.com/sousa-a/medicare-phantom-billing-engine)
+[![Companion Project](https://img.shields.io/badge/Companion-Phantom_%26_Billing-green?style=flat)](https://github.com/sousa-a/medicare-phantom-billing-engine)
 
 ---
 
