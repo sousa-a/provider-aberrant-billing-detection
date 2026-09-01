@@ -7,6 +7,10 @@
 
 ---
 
+**Aberrant Billing Detection on CMS DE-SynPUF Medicare Claims**
+
+---
+
 **Project P3** - Part of a three-project Medicare Fraud, Waste & Abuse (FWA) portfolio.
 
 > **The methods transfer to real claims data. The specific dollar estimates and provider flags do not.** This project uses CMS DE-SynPUF synthetic data to demonstrate an end-to-end aberrant billing detection framework - the analytical pipeline is production-grade, but the numbers are proof-of-concept.
@@ -156,13 +160,16 @@ CMS DE-SynPUF (2008–2010), all 20 samples.
 
 ## Related projects
 
-This is **P3** in a three-project FWA portfolio:
+This is part of a three-project FWA portfolio:
 
-| Project | Focus |
-|---|---|
-| P1 | Upcoding & unbundling detection |
-| P2 | Phantom billing detection |
-| **P3** | **Provider aberrant billing pattern detection** |
+| Project | Focus | GitHub | Medium |
+|---|---|---|---|
+| P1 | Upcoding & unbundling detection | https://github.com/sousa-a/medicare-upcoding-unbundling-engine | https://medium.com/@alessandro.oof/detecting-medicare-fraud-at-scale-building-an-upcoding-unbundling-detection-engine-on-230-4de555db568d |
+| P2 | Phantom billing detection | https://github.com/sousa-a/medicare-phantom-billing-engine | https://medium.com/@alessandro.oof/detecting-medicare-phantom-billing-at-scale-building-a-post-mortem-claims-impossible-service-day-c8d57a6b9c3c |
+| P3 | Provider aberrant billing pattern detection | https://github.com/sousa-a/provider-aberrant-billing-detection | https://medium.com/@alessandro.oof/detecting-aberrant-medicare-billing-patterns-a-multi-method-framework-using-synthetic-cms-data-5660d71e2839 |
+
+These projects used data from CMS 2008-2010 Data Entrepreneurs’ Synthetic Public Use File (DE-SynPUF).<br>
+https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-claims-synthetic-public-use-files/cms-2008-2010-data-entrepreneurs-synthetic-public-use-file-de-synpuf
 
 ---
 
@@ -170,4 +177,3 @@ This is **P3** in a three-project FWA portfolio:
 
 **Alessandro Oliveira de Sousa**  
 August 2026
-
